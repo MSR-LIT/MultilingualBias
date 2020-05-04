@@ -29,8 +29,19 @@ To evaluate intrinsic bias in each language, refer to [inBias.ipynb](./intrinsic
 ### - Multilingual BiosBias (MLBs) Dataset:
 
 To replicate the MLBs dataset, please refer to [replicateMLBs](./extrinsic/replicateMLBs) folder.
+**For EN dataset, please refer to [biosbias](https://github.com/microsoft/biosbias)**
 
 ### - Codes:
 
 The codes for transfer learning tasks is under [transfer](./extrinsic/transfer) folder.
+**If you use this code, please also cite [Bias in Bios: A Case Study of Semantic Representation Bias in a High Stakes Setting](https://dl.acm.org/doi/10.1145/3287560.3287572)**
+```
+@inproceedings{de2019bias,
+  title={Bias in bios: A case study of semantic representation bias in a high-stakes setting},
+  author={De-Arteaga, Maria and Romanov, Alexey and Wallach, Hanna and Chayes, Jennifer and Borgs, Christian and Chouldechova, Alexandra and Geyik, Sahin and Kenthapadi, Krishnaram and Kalai, Adam Tauman},
+  booktitle={Proceedings of the Conference on Fairness, Accountability, and Transparency},
+  pages={120--128},
+  year={2019}
+}
+```
 
