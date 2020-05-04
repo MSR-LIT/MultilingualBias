@@ -35,7 +35,7 @@ To replicate the MLBs dataset, please refer to [replicateMLBs](./extrinsic/repli
 
 The codes for transfer learning tasks is under [transfer](./extrinsic/transfer) folder.
 
-**If you use this code, please also cite [Bias in Bios: A Case Study of Semantic Representation Bias in a High Stakes Setting](https://dl.acm.org/doi/10.1145/3287560.3287572)**
+**If you use this code or use the EN MLB dataset, please also cite [Bias in Bios: A Case Study of Semantic Representation Bias in a High Stakes Setting](https://dl.acm.org/doi/10.1145/3287560.3287572)**
 ```
 @inproceedings{de2019bias,
   title={Bias in bios: A case study of semantic representation bias in a high-stakes setting},
