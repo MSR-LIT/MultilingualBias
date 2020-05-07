@@ -1,6 +1,11 @@
+### Multlingual BiosBias Dataset
 - [replicateMLBs](./replicateMLBs) folder contains the codes for replicating the Multilingual Bios Datasets. Please refer to each language for downloading scripts.
     * Please refer to [biosBias](https://github.com/microsoft/biosbias) for EN dataset.
+    
+### Cross-Lingual Transfer Learning using MLBs 
 - [bios_codes](./bios_codes) contains codes for training the classification models on the MLBs dataset.
+
+
 
 **Please also cite this paper if you use the EN dataset or use the bios_codes**
 ```
