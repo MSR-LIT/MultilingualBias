@@ -3,7 +3,7 @@
 
 ## Introduction
 This repository contains the code and data for replicating results from 
-- [Gender Bias in Multilingua Embeddings and Corss-Lingual Transfer]()
+- [Gender Bias in Multilingua Embeddings and Corss-Lingual Transfer](https://arxiv.org/abs/2005.00699)
 - [Jieyu Zhao](https://jyzhao.net/), [Subhabrata Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/), [Saghar Hosseini](https://www.microsoft.com/en-us/research/people/sahoss/), [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/), [Ahmed Hassan Awadallah](https://www.microsoft.com/en-us/research/people/hassanam/).
 - In ACL 2020
 
@@ -52,8 +52,7 @@ The codes for transfer learning tasks is under [transfer](./extrinsic/transfer) 
 @inproceedings{de2019bias,
   title={Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer},
   author={Jieyu Zhao, Subhabrata Mukherjee, Saghar Hosseini, Kai-Wei Chang, Ahmed Hassan Awadallah},
-  booktitle={ACL},
-  pages={xxx},
+  booktitle={Conference of the Association for Computational Linguistics},
   year={2020}
 }
 ```
