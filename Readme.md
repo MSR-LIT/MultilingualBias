@@ -49,10 +49,16 @@ The codes for downstream task is under [bios_codes](./extrinsic/bios_codes) fold
 
 #### Citation
 ```
-@inproceedings{de2019bias,
-  title={Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer},
-  author={Jieyu Zhao, Subhabrata Mukherjee, Saghar Hosseini, Kai-Wei Chang, Ahmed Hassan Awadallah},
-  booktitle={Conference of the Association for Computational Linguistics},
-  year={2020}
+@inproceedings{zhao-etal-2020-gender,
+    title = "Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer",
+    author = "Zhao, Jieyu  and
+      Mukherjee, Subhabrata  and
+      Hosseini, saghar  and
+      Chang, Kai-Wei  and
+      Hassan Awadallah, Ahmed",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    year = "2020",
+    publisher = "Association for Computational Linguistics",
+    pages = "2896--2907",
 }
 ```
