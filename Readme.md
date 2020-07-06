@@ -47,7 +47,8 @@ The codes for downstream task is under [bios_codes](./extrinsic/bios_codes) fold
 ```
 
 
-#### Citation
+----
+### Citation
 ```
 @inproceedings{zhao-etal-2020-gender,
     title = "Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer",
