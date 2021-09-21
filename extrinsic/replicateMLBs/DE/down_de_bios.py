@@ -164,7 +164,7 @@ def extract_bios_from_page(page, URI, max_preceed=MAX_PRECEED, min_len=MIN_LENGT
 
                 g = infer_gender(line_str)
                 
-                if g!='F' or line_str[end:].startswith(",") or line_str[end:].startswith(" und "): # avoid 'is an architect and' or 'is an architect, blah' 
+                if not g or line_str[end:].startswith(",") or line_str[end:].startswith(" und "): # avoid 'is an architect and' or 'is an architect, blah' 
                     # maybe add: or line_str[end:].startswith("/") # avoid 'is an architect/designer...'
                     continue
 
